@@ -1,0 +1,24 @@
+.create-board,
+.board {
+  width: 12rem;
+  height: 6rem;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+}
+
+.board .icon-container {
+  height: 1.5rem;
+  width: 1.5rem;
+  background-color: var(--background-2);
+  padding: 2px;
+  border-radius: 0.75rem;
+}
+
+.board .icon {
+  max-height: 15px;
+}
+
+.create-board {
+  border: 3px solid var(--gray-300);
+  color: var(--gray-400);
+}

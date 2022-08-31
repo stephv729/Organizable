@@ -1,0 +1,192 @@
+.clickable {
+  cursor: pointer;
+}
+
+.dragable {
+  cursor: grab;
+}
+
+.opaque {
+  opacity: 25%;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.right {
+  justify-content: right;
+}
+.center {
+  justify-content: center;
+}
+.space-between {
+  justify-content: space-between;
+}
+
+.center-items {
+  align-items: center;
+}
+
+.end-items {
+  align-items: flex-end;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.gap-0_5 {
+  gap: 0.5rem;
+}
+
+.gap-0_625 {
+  gap: 0.625rem;
+}
+
+.gap-1 {
+  gap: 1rem;
+}
+
+.gap-2_5 {
+  gap: 2.5rem;
+}
+
+.min-h-100vh {
+  min-height: 100vh;
+}
+
+.min-w-15 {
+  min-width: 15rem;
+}
+
+.w-30 {
+  width: 30rem;
+}
+
+.w-0_25{
+  width: 0.25rem;
+}
+
+.h-2_5 {
+  height: 2.5rem;
+}
+
+.w-100p{
+  width: 100%;
+}
+
+.h-100p {
+  height: 100%;
+}
+.position-relative {
+  position: relative;
+}
+
+.position-abs {
+  position: absolute;
+}
+
+.p-0_125 {
+  padding: 0.125rem;
+}
+
+.p-0_1875 {
+  padding: 0.1875rem;
+}
+
+.p-0_4 {
+  padding: 0.4rem;
+}
+
+.p-0_5 {
+  padding: 0.5rem;
+}
+
+.p-0_75 {
+  padding: 0.75rem;
+}
+
+.p-1 {
+  padding: 1rem;
+}
+
+.p-2 {
+  padding: 2rem;
+}
+
+.pt-0_5 {
+  padding-top: 0.5rem;
+}
+
+.pl-1{
+  padding-left: 1rem;
+}
+
+.ptb-2_625 {
+  padding: 2.625rem 0rem ;
+}
+
+.mtb-0_625 {
+  margin: 0.625rem 0rem;
+}
+
+.mt-1 {
+  margin-top: 2rem;
+}
+
+.mt-2 {
+  margin-top: 2rem;
+}
+
+.mt-3 {
+  margin-top: 3rem;
+}
+
+.mb-1 {
+  margin-bottom: 1rem;
+}
+
+.mb-2 {
+  margin-bottom: 2rem;
+}
+
+.bg-gray100 {
+  background-color: var(--gray-100);
+}
+
+.bg-gray300 {
+  background-color: var(--gray-300);
+}
+
+.bg-primary100 {
+  background-color: var(--primary-100);
+}
+
+.bg-primary300 {
+  background-color: var(--primary-300);
+}
+
+.bg-primary500 {
+  background-color: var(--primary-500);
+}
+
+.bg-secondary100 {
+  background-color: var(--secondary-100);
+}
+
+.bg-white{
+  background-color: white;
+}
+
+.color-gray500 {
+  color: var(--gray-500)
+}
+
+.border-t-primary400{
+  border-top: 2px solid var(--primary-400);
+}

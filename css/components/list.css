@@ -1,0 +1,6 @@
+.list-form__container, .lists .list {
+  width: 17.5rem;
+  border-radius: 0.5rem;
+  background-color: var(--gray-100);
+  height: fit-content;
+}
